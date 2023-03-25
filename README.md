@@ -6,7 +6,7 @@ Project with [Geojson](http://geojson.org/) files with brazilian geographic limi
 
 
 ### Brazil
-* States - [afialho/geojson/raw/main/brazil-states.geojson](afialho/geojson/raw/main/brazil-states.geojson)
+* [Brazil states map](https://raw.githubusercontent.com/afialho/geojson/main/brazil-states.geojson)
 
 
 Data source
